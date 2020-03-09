@@ -2,8 +2,6 @@
 using System.Reflection;
 using MediatR;
 using MediatRDifferentPipelines.BehaviorPipelines;
-using MediatRDifferentPipelines.Command;
-using MediatRDifferentPipelines.Query;
 using Microsoft.Extensions.DependencyInjection;
 using SimpleInjector;
 
